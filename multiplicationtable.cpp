@@ -2,6 +2,7 @@
 using namespace std;
 
 int main()
+
 {
     int n;
 
@@ -10,8 +11,11 @@ int main()
 
     for (int i = 1; i <= 10; ++i) {
         cout << n << " * " << i << " = " << n * i << endl;
+    
     }
     
     return 0;
+
 }
+
 
