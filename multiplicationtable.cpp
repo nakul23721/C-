@@ -6,7 +6,7 @@ int main()
 {
     int n;
 
-    cout << "Enter a positive integer: ";
+    cout << "Enter a positive number: ";
     cin >> n;
 
     for (int i = 1; i <= 10; ++i) {
