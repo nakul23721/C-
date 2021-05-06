@@ -55,7 +55,7 @@ while(w!=src_router)
  
 printf("\n--%d",last[w]);w=last[w];
 }
-printf("\n Shortest path cost:%d",dist[i]);
+printf("\n Shortest path cost: %d",dist[i]);
 }
 }
 
