@@ -11,7 +11,7 @@ int main()
     int nodes,i,j,k,count=0;
 printf("\nEnter the number of nodes : "); 
 scanf("%d",&nodes);
-printf("\nEnter the cost matrix :\n"); 
+printf("\nEnter the cost-matrix :\n"); 
 for(i=0;i<nodes;i++)
 {
 for(j=0;j<nodes;j++)
