@@ -5,7 +5,7 @@ int main()
 {
      int n, num, digit, rev = 0;
 
-     cout << "Enter a positive number: ";
+     cout << "Enter any positive number: ";
      cin >> num;
 
      n = num;
