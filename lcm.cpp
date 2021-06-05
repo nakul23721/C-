@@ -5,7 +5,7 @@ int main()
 {
     int n1, n2, max;
 
-    cout << "Enter two numbers: ";
+    cout << "Enter any two numbers: ";
     cin >> n1 >> n2;
     
    
