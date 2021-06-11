@@ -7,7 +7,7 @@ int main()
     bool isPrime = true;
 
     cout << "Enter a positive integer: ";
-    cin >> n;
+    cin >>n;
 
     if (n == 0 || n == 1) 
     {
@@ -25,9 +25,9 @@ int main()
         }
     }
     if (isPrime)
-        cout << n << " is a prime number";
+        cout << n << " is a prime number ";
     else
-        cout << n << " is not a prime number";
+        cout << n << " is not a prime number ";
 
     return 0;
 }
