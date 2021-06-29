@@ -6,7 +6,7 @@ int main()
 {
     int n;
 
-    cout << "Enter the number: ";
+    cout << "Enter any number: ";
     cin >> n;
 
     for (int i = 1; i <= 10; ++i) {
